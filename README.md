@@ -1,2 +1,2 @@
 # GLESDemo
-提取WebRTC代码，直接在安卓上用openGLES渲染YUV
+提取WebRTC代码，安卓上c++层用openGLES渲染YUV
